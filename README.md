@@ -2,7 +2,7 @@
 
 Added some demo code.
 
-![video](Video\Out\twin.gif)
+![video](Video/Out/twin.gif)
 
 ## Acknowledgement:
 
