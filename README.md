@@ -17,7 +17,7 @@ Added some demo codes.
 ![dt](Detection/output.png)
 
 
-## Credits:
+## Contacts:
 - borawarlokesh26@gmail.com
 
 
