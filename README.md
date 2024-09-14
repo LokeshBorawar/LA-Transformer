@@ -18,5 +18,9 @@ Added some demo codes.
 
 
 ## Credits:
+- borawarlokesh26@gmail.com
+
+
+## Credits:
 
 - [LA-Transformer](https://github.com/SiddhantKapil/LA-Transformer.git)
