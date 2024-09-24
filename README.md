@@ -17,6 +17,10 @@ Added some demo codes.
 ![dt](Detection/output.png)
 
 
+## Requirements:
+- Please check right version in [requirements.csv](requirements.csv)
+
+
 ## Contacts:
 - borawarlokesh26@gmail.com
 
