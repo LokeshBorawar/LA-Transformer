@@ -16,6 +16,8 @@ Added some demo codes.
 - Output of person_detection.py.
 ![dt](Detection/output.png)
 
+- The model may not work if a person changes clothes.
+
 
 ## Requirements:
 - Please check right version in [requirements.csv](requirements.csv)
